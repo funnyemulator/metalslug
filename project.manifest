@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/metalslug/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/metalslug/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/metalslug/main/",
-	"version" : "2",
+	"version" : "3",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2191,20 +2191,20 @@
 		"res/db_config/default.json": {
 			"md5": "c51443568ca341825c446d21a8be3cef"
 		},
-		"res/db_gba": {
-			"md5": "59df58927e3e0589fb546524cba28f61"
+		"res/db_gba.txt": {
+			"md5": "8a383ce9e36ac17b569fb156ce837bc3"
 		},
-		"res/db_mame": {
-			"md5": "1baf5b116f7b63611e414cd5f489103d"
+		"res/db_mame.txt": {
+			"md5": "775c28786d9c353cf9bad5478a637fc0"
 		},
-		"res/db_n64": {
-			"md5": "660fc4fd4a517c559c43c1f8e78ce3dd"
+		"res/db_n64.txt": {
+			"md5": "19e148cd0bb26c74be9cfc78217aad70"
 		},
-		"res/db_nes": {
-			"md5": "069d844845d9a9eb729c7c1c5bb29c96"
+		"res/db_nes.txt": {
+			"md5": "4c0b3084f5db6fe6f6cfeb079ea4b5eb"
 		},
-		"res/db_snes": {
-			"md5": "ee7343c1bf949e126fb1f0e9ea78929a"
+		"res/db_snes.txt": {
+			"md5": "c7138ebd99bb63c5aded531934ada217"
 		},
 		"res/gba_roms/master/arts/0025 - Super Mario Advance (U)(Eurasia).jpg": {
 			"md5": "b716a97321bede7e7f05285e6f70b414"
@@ -2784,9 +2784,6 @@
 		},
 		"res/localize/vie/lang_vie.txt": {
 			"md5": "dc826e229e3b3405cc925638a0622971"
-		},
-		"res/localize/vie/vi": {
-			"md5": "35326c3519c7dcc3db4a333deefccaf8"
 		},
 		"res/localize/vie/vi.txt": {
 			"md5": "34f4b9fca84dd65534a9b5b21cf555b8"
@@ -5150,7 +5147,7 @@
 			"md5": "0a615473c6e6d9c43a37dd65deaf5005"
 		},
 		"res/UI/store/stores.plist": {
-			"md5": "cc30258f2d70e7a5bc7028658a8e8717"
+			"md5": "75feaabbe78347ef0f28836051c309a8"
 		},
 		"res/UI/store/stores.png": {
 			"md5": "11bd09b5745220aef919b055e267c9d7"
@@ -5687,7 +5684,7 @@
 			"md5": "7e90e9138106b63c175d62cc26239643"
 		},
 		"src/NES/logic/datamanager.js": {
-			"md5": "f49189a786f0975464b3a93721fbaaf6"
+			"md5": "50de0d4cf16b79ecf204ebd95536b429"
 		},
 		"src/NES/logic/downloadMgr.js": {
 			"md5": "c536268f60f2e08f6fc2b8baf334dcfa"
