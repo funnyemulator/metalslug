@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/metalslug/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/metalslug/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/metalslug/main/",
-	"version" : "3",
+	"version" : "1",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2189,7 +2189,7 @@
 			"md5": "0b9c9c6e535fb5a5c21774527c77def5"
 		},
 		"res/db_config/default.json": {
-			"md5": "c51443568ca341825c446d21a8be3cef"
+			"md5": "c3b3ff30286ed652237a4b35b8be0b04"
 		},
 		"res/db_gba.txt": {
 			"md5": "8a383ce9e36ac17b569fb156ce837bc3"
@@ -5672,7 +5672,7 @@
 			"md5": "8389fbe455a94c84039f163c82f5902f"
 		},
 		"src/NES/Home/Shop.js": {
-			"md5": "a285562c777171605e4a9ffc510e3cf7"
+			"md5": "12119eb243847384fb33e0d9c8c45d1f"
 		},
 		"src/NES/Home/StartupScene.js": {
 			"md5": "31b435ecd4eacfd9c6d5e2f8d214351a"
