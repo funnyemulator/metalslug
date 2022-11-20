@@ -1,10 +1,10 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/metalslug/v1.1.0/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/metalslug/v1.1.0/project.manifest",
-	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/metalslug/v1.1.0/version.manifest",
-	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/metalslug/v1.1.0/download.manifest",
-	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/metalslug/v1.1.0/",
-	"version" : "1",
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/metalsoldier/v1.1.0/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/metalsoldier/v1.1.0/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/metalsoldier/v1.1.0/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/metalsoldier/v1.1.0/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/metalsoldier/v1.1.0/",
+	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2189,7 +2189,7 @@
 			"md5": "0b9c9c6e535fb5a5c21774527c77def5"
 		},
 		"res/db_config/default.json": {
-			"md5": "9bedcbc2025215aaceed67e9e2b6a29e"
+			"md5": "a18a3d4fcf0dd573ad1e8bfe207389f5"
 		},
 		"res/db_gba.txt": {
 			"md5": "8a383ce9e36ac17b569fb156ce837bc3"
@@ -5732,7 +5732,7 @@
 			"md5": "fb5444362876a3a1a90c76461af676ad"
 		},
 		"src/NES/Home/Shop.js": {
-			"md5": "12119eb243847384fb33e0d9c8c45d1f"
+			"md5": "ac1996dc79a6c3cfe92d37bb5e1b4703"
 		},
 		"src/NES/Home/StartupScene.js": {
 			"md5": "7edbe9e5ee91874de2e15f71f396eb97"
